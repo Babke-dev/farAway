@@ -2,7 +2,7 @@
 
 > A simple React app for planning trips and managing a packing list.
 
-[🚀 **Live Demo**] https://far-away-xi-dun.vercel.app/
+[🚀 **Live Demo**](https://far-away-xi-dun.vercel.app/)
 
 
 
